@@ -3,9 +3,9 @@ Respository for Esp32-lora rtos
 Universidade do Estado do Amazonas
 
 Alunos:
-Marcia Dos Santos de Sá
-Emerson da Silva Muniz
-Carlos pereira da silva
+Marcia Dos Santos de Sá<br>
+Emerson da Silva Muniz<br>
+Carlos pereira da silva<br>
 
 
 Protótipo do projeto 
